@@ -1,0 +1,13 @@
+{
+    "role": {
+        "name": "MASTER_CUSTOMERS_EXTERNAL_ACCESS",
+        "object_privileges": [
+            {
+                "name":"CUSTOMERMASTER_DB_CUSTOMERS",
+                "type":"TABLE",
+                "privileges":[ "SELECT" ],
+                "privileges_with_grant_option":[]
+            }
+        ]
+    }
+}
